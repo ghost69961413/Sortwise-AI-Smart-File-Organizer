@@ -1,5 +1,5 @@
 # Sortwise — AI Smart File Organizer
- # Ai lab project By NILAY MONDAL - 2402221530084, Uder the guidance of Ms. ANJALI SRIVASTAVAA Maam.
+ # Ai lab project By NILAY MONDAL - 2402221530084, Uder the guidance of Ms. ANJALI SRIVASTAVAA Ma'am.
 
 
  
