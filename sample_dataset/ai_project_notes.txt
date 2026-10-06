@@ -1,0 +1,3 @@
+AI Project Notes
+
+Our final year project explores machine learning and natural language processing. The Python application uses a classification pipeline, an SQLite database, and a Flask dashboard. The project milestones include dataset preparation, model evaluation, and documentation.

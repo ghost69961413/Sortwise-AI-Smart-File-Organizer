@@ -1,0 +1,14 @@
+file_path,expected_folder
+mountain_trip.png,Images/Nature
+family_photo.jpg,Images/Personal
+birthday_party.jpg,Images/Events
+april_invoice.pdf,PDFs/Bills
+q2_report.pdf,PDFs/Reports
+lecture_notes.pdf,PDFs/Notes
+my_resume.txt,Documents/Resume
+db_assignment.txt,Documents/Assignments
+recommendation_letter.txt,Documents/Letters
+random_blob.bin,Others/NeedsReview
+scan_like.pdf,Others/NeedsReview
+zoom_meeting_recording.mp4,Videos/Meetings
+travel_reel.mp4,Videos/SocialClips

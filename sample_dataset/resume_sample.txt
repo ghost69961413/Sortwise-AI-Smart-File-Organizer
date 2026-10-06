@@ -1,0 +1,3 @@
+Resume Sample
+
+Computer science student with experience in Python, Java, machine learning, database design, and web application development. Built academic projects using Flask and SQLite.
